@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
